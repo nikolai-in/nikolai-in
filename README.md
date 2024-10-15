@@ -12,5 +12,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- ⚡ Fun fact:
+<div align="center">
+  <br/>
+  <a href="iamge.svg">
+    <img alt="I am depressed" height="400" src="iamge.svg" width="800" />
+  </a>
+  <br/>
+</div>
